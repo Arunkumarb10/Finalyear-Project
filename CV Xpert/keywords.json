@@ -1,0 +1,344 @@
+{
+    "programming_language_keywords": [
+        "python",
+        "java",
+        "javascript",
+        "c++",
+        "c",
+        "r",
+        "ruby",
+        "php",
+        "swift",
+        "kotlin",
+        "go",
+        "rust",
+        "scala",
+        "objective-c",
+        "assembly",
+        "sql",
+        "bash",
+        "perl",
+        "lua",
+        "html",
+        "css",
+        "typescript",
+        "dart"
+    ],
+    "additional_programming_languages": [
+        "julia",
+        "matlab",
+        "tensorflow",
+        "pytorch",
+        "react",
+        "angular",
+        "vue.js",
+        "aws",
+        "azure",
+        "gcp",
+        "haskell",
+        "clojure"
+    ],
+    "programming_tools_keywords": [
+        "vscode",
+        "pycharm",
+        "webstorm",
+        "intellij",
+        "netbeans",
+        "eclipse",
+        "atom",
+        "sublime",
+        "git",
+        "github",
+        "gitlab",
+        "docker",
+        "kubernetes",
+        "ansible",
+        "terraform",
+        "jenkins",
+        "maven",
+        "gradle",
+        "mongo",
+        "sql",
+        "firebase",
+        "npm",
+        "yarn",
+        "visual studio",
+        "android studio",
+        "xcode",
+        "unity",
+        "unreal engine",
+        "blender",
+        "maya",
+        "adobe creative suite",
+        "photoshop",
+        "illustrator",
+        "premiere pro",
+        "after effects",
+        "lightroom"
+    ],
+    "related_technologies": {
+        "django": [
+            "web development",
+            "application development",
+            "API development"
+        ],
+        "flask": [
+            "web development",
+            "microframeworks",
+            "API development"
+        ],
+        "spring": [
+            "application development",
+            "enterprise Java"
+        ],
+        "reactjs": [
+            "web development",
+            "front-end development",
+            "JavaScript"
+        ],
+        "angularjs": [
+            "web development",
+            "front-end development",
+            "JavaScript"
+        ],
+        "node": [
+            "web development",
+            "JavaScript",
+            "back-end development"
+        ],
+        "aws lambda": [
+            "serverless computing",
+            "AWS",
+            "cloud functions"
+        ],
+        "azure functions": [
+            "serverless computing",
+            "Azure",
+            "cloud functions"
+        ],
+        "gcp cloud functions": [
+            "serverless computing",
+            "GCP",
+            "cloud functions"
+        ],
+        "graphql": [
+            "API development",
+            "query language"
+        ],
+        "apollo graphql": [
+            "API development",
+            "GraphQL",
+            "Apollo Client"
+        ],
+        "autocad": [
+            "civil engineering",
+            "design software",
+            "CAD"
+        ],
+        "revit": [
+            "civil engineering",
+            "building information modeling",
+            "BIM"
+        ],
+        "sketchup": [
+            "civil engineering",
+            "3D modeling",
+            "architectural design"
+        ],
+        "vray": [
+            "civil engineering",
+            "rendering",
+            "visualization"
+        ],
+        "matlab": [
+            "electrical engineering",
+            "simulation",
+            "signal processing"
+        ],
+        "labview": [
+            "electrical engineering",
+            "data acquisition",
+            "instrument control"
+        ],
+        "autodesk eagle": [
+            "electrical engineering",
+            "PCB design",
+            "schematic capture"
+        ],
+        "cadence": [
+            "electrical engineering",
+            "VLSI design",
+            "EDA tools"
+        ],
+        "ansys": [
+            "mechanical engineering",
+            "finite element analysis",
+            "simulation"
+        ],
+        "solidworks": [
+            "mechanical engineering",
+            "CAD",
+            "3D modeling"
+        ],
+        "catia": [
+            "mechanical engineering",
+            "CAD",
+            "product lifecycle management"
+        ],
+        "matlab simulink": [
+            "mechanical engineering",
+            "simulation",
+            "model-based design"
+        ],
+        "adobe creative suite": [
+            "graphic design",
+            "digital media",
+            "creative production"
+        ],
+        "autodesk maya": [
+            "3D animation",
+            "visual effects",
+            "character modeling"
+        ],
+        "autodesk autocad": [
+            "architecture",
+            "CAD",
+            "building design"
+        ],
+        "autodesk revit": [
+            "architecture",
+            "BIM",
+            "building design"
+        ],
+        "autodesk 3ds max": [
+            "architecture",
+            "3D modeling",
+            "visualization"
+        ],
+        "visual studio": [
+            "IDE",
+            "development",
+            "programming"
+        ],
+        "eclipse": [
+            "IDE",
+            "development",
+            "programming"
+        ],
+        "intellij": [
+            "IDE",
+            "development",
+            "programming"
+        ],
+        "android studio": [
+            "IDE",
+            "app development",
+            "mobile development"
+        ],
+        "xcode": [
+            "IDE",
+            "app development",
+            "iOS development"
+        ],
+        "unity": [
+            "game development",
+            "real-time 3D",
+            "cross-platform"
+        ],
+        "unreal engine": [
+            "game development",
+            "real-time 3D",
+            "graphics"
+        ],
+        "blender": [
+            "3D modeling",
+            "animation",
+            "rendering"
+        ],
+        "adobe photoshop": [
+            "graphic design",
+            "image editing",
+            "photo manipulation"
+        ],
+        "adobe illustrator": [
+            "graphic design",
+            "vector graphics",
+            "illustration"
+        ],
+        "adobe after effects": [
+            "motion graphics",
+            "visual effects",
+            "video editing"
+        ],
+        "microsoft office suite": [
+            "office suite",
+            "productivity",
+            "microsoft"
+        ],
+        "excel": [
+            "spreadsheet",
+            "data analysis",
+            "microsoft"
+        ],
+        "word": [
+            "word processor",
+            "document editing",
+            "microsoft"
+        ],
+        "powerpoint": [
+            "presentation",
+            "slides",
+            "microsoft"
+        ],
+        "access": [
+            "database",
+            "microsoft",
+            "relational database"
+        ],
+        "visio": [
+            "diagramming",
+            "microsoft",
+            "flowcharts"
+        ],
+        "sap": [
+            "enterprise resource planning",
+            "business software",
+            "SAP AG"
+        ],
+        "oracle": [
+            "database management",
+            "oracle corporation",
+            "RDBMS"
+        ],
+        "quickbooks": [
+            "accounting",
+            "financial",
+            "intuit"
+        ],
+        "tableau": [
+            "data visualization",
+            "business intelligence",
+            "tableau software"
+        ],
+        "power bi": [
+            "business analytics",
+            "data visualization",
+            "microsoft"
+        ],
+        "salesforce": [
+            "customer relationship management",
+            "CRM",
+            "salesforce.com"
+        ],
+        "hubspot": [
+            "marketing",
+            "sales",
+            "hubspot inc."
+        ],
+        "zoho": [
+            "business software",
+            "productivity suite",
+            "zoho corporation"
+        ]
+    }
+}
